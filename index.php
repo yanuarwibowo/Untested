@@ -1,0 +1,3 @@
+<?php
+echo "this is the first code ever write in github";
+?>
